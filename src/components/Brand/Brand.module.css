@@ -3,6 +3,23 @@
     justify-content: center;
     cursor: pointer;
 }
+.root svg {
+    width: 100px;
+    height: auto;
+  }
+
+  .Header-module--header--aa06a .logo img {
+    width: 180px;
+}
+
+.Header-module--header--aa06a {
+    padding: 0;
+}
+
+.Header-module--header--aa06a .logo {
+    text-align: center;
+}
+  
 
 @media (max-width: 800px) {
     .root svg {

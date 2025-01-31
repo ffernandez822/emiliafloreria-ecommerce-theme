@@ -30,10 +30,10 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'/banner1.png'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
-        ctaText={'shop now'}
+        image={'/minimalistic_floral_banner.jpg'}
+        title={''}
+        subtitle={''}
+        ctaText={''}
         ctaAction={goToShop}
       />
 
@@ -52,7 +52,7 @@ const IndexPage = () => {
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
         <Container size={'large'}>
-          <Title name={'New Collection'} />
+          <Title name={'Momentos Especiales'} />
           <ProductCollectionGrid />
         </Container>
       </div>

@@ -1,0 +1,20 @@
+.Header-module--header--aa06a .logo img {
+    width: 125px;
+}
+
+.Header-module--header--aa06a {
+    padding: 0;
+}
+
+.Header-module--header--aa06a .logo {
+    text-align: center;
+}
+
+.root svg {
+    width: 100px;
+    height: auto;
+  }
+
+  .Header-module--header--aa06a {
+    padding: 0 !important;
+}
